@@ -16,7 +16,7 @@
 [rewrite_local]
 
 # Notability解锁订阅
-^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/Mixlining/qx_js/main/Notability.js
+https://notability.com/subscriptions url script-response-body https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Crack/notability.js
 
 [mitm] 
 
