@@ -1,7 +1,11 @@
-/*
+/******************************
+[rewrite_local]
+
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Mixlining/qx_js/main/bear.js
-[mitm] = buy.itunes.apple.com
-*/
+
+[mitm]
+hostname = buy.itunes.apple.com
+**********************************/
 
 var obj = JSON.parse($response.body);
 var bundle_id = obj.receipt["bundle_id"];
