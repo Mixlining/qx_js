@@ -1,6 +1,6 @@
 /*
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body JS/bear.js
-buy.itunes.apple.com
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Mixlining/qx_js/main/bear.js
+[mitm] = buy.itunes.apple.com
 */
 
 var obj = JSON.parse($response.body);
