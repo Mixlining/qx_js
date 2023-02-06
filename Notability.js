@@ -6,6 +6,7 @@
 软件下载：http://t.cn/A6xzJTcN
 脚本作者：Hausd0rff
 更新时间：2021.11.26
+原始仓库地址:https://github.com/yqc007/QuantumultX/blob/master/NotabilityProCrack.js
 电报频道：https://t.me/yqc_123
 问题反馈：https://t.me/yqc_007
 使用声明：⚠️此脚本仅供学习与交流，
@@ -16,7 +17,7 @@
 [rewrite_local]
 
 # Notability解锁订阅
-https://notability.com/subscriptions url script-response-body https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Crack/notability.js
+https://notability.com/subscriptions url script-response-body https://raw.githubusercontent.com/Mixlining/qx_js/main/Notability.js
 
 [mitm] 
 
